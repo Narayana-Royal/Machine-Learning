@@ -1,7 +1,7 @@
 # Linear Regression : Single and Multi Features
 
-## Single Feature : Canda_per_capitca Dataset
-## Multiple Feature : Interview Hiring Dataset
+### Single Feature : Canda_per_capitca Dataset
+### Multiple Feature : Interview Hiring Dataset
 
 ## Table of Contents
 
