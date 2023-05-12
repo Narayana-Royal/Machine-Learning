@@ -1,7 +1,7 @@
 # Gradient Descent : Used to create best fit line in Linear Regression
 
 ### Tests_Score Dataset
-> STAGE 0 : At initital stage, Cost_function(i.e Mean Square Error) is calculated and later we found intercept and slope at each point.
+> STAGE 0 : At initital stage, Cost_function(i.e Mean Square Error) is calculated and later we will find intercept and slope at each point.
 > 
 > We can draw a line using those intercept and slope.
 > 
