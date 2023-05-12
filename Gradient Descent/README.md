@@ -5,7 +5,7 @@
 > 
 > We can draw a line using those intercept and slope.
 > 
-> STAGE 1 : Now , We take baby steps by using Learning rate and partial derivatives of x,y values
+> STAGE 1 : Now , We take baby steps(moving downwards to the next point) by using Learning rate and partial derivatives of x,y values
 > 
 > After reaching the next step, we again calculate the cost_function. Also, the intercept and slope is also calculated.  
 > 
