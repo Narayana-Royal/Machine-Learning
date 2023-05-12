@@ -8,3 +8,6 @@
  **2. Gradient Descent**
  
  **3. Logistic Regression**
+ 
+ **4. Decision Tree**
+
