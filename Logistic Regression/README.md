@@ -1,4 +1,4 @@
-# Black Friday Sales : EDA 1
+  # Logistic Regression
 
 ## Exploratory Data Analysis on various Datasets
 
