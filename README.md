@@ -12,5 +12,7 @@
  **4. Decision Tree**
  
  **5. SVM**
+ 
+ **6. Random Forest**
 
 
