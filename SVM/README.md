@@ -5,4 +5,4 @@
 
 > Also we can specify the C(i.e Errors after classifying) value manually and also the gamma (i.e Curvature of data) value manually.
 
-> 
+
