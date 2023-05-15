@@ -10,4 +10,7 @@
  **3. Logistic Regression**
  
  **4. Decision Tree**
+ 
+ **5. SVM**
+
 
