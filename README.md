@@ -16,6 +16,9 @@
  **6. Random Forest**
  
  **7. K Means**
+ 
+ **8. Naive Bayes**
+
 
 
 
