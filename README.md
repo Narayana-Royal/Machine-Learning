@@ -14,5 +14,8 @@
  **5. SVM**
  
  **6. Random Forest**
+ 
+ **7. K Means**
+
 
 
