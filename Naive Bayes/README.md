@@ -10,7 +10,7 @@
 
 > BernoulliNB - Binary data. (example - 0,1)
 
-###
+### CountVectorizer usage
 > Also for texted sentence feature, we use count vectorizer to change it to numerical form. Working: Countvectorizer takes unique words of documents and make a dataframe as value 1 where the document has found that particular word.
 
 
