@@ -18,6 +18,9 @@
  **7. K Means**
  
  **8. Naive Bayes**
+ 
+ **9. PCA**
+
 
 
 
