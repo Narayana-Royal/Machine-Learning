@@ -7,4 +7,4 @@
 
 > We can manually set the number of nearby neighbor points to be considered by using n_neighbors parameter in this algorithm. 
 
-> Better to use neighbor value = Number of Classifications do the target feature has. So that, accuracy will be more.. (For example : Classes are a,b,c. Take n_neighbors as 3).
+> Better to use neighbor value = Number of Classifications do the target feature has. So that, accuracy will be more.. (For example : Classes are a,b,c. Take n_neighbors as 3 because target featured classes are 3 in number).
